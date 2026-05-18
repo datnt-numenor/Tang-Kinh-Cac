@@ -16,3 +16,4 @@ Repo tổng hợp tài liệu mình sưu tầm, sử dụng trong quá trình h�
 ### 🌐 Website & Repo hỗ trợ:
 - 🔗 [CodePTIT](https://github.com/khoivux/CodePTIT)
 - 🔗 [GradePTIT – Ôn thi trắc nghiệm](https://gradeptit.web.app/practice-home)
+- 🔗 [SQLPTIT - Luyện tập SQL](https://sql.toiyeuptit.com/)
